@@ -1,3 +1,3 @@
 ## Hi there 👋
-I'm an IT specialist
-*Running is my passion*
+- I'm an IT specialist
+- *Running is my passion*
